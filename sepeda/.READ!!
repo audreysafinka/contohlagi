@@ -1,0 +1,5 @@
+Untuk menjalankan program ini , langkah - langkah yang harus dilakukan ialah :
+1. Mengimpor Database db_sepeda.sql ( Nama database di server haruslah db_sepeda )
+2. Untuk login sebagai admin maka : 
+	USERNAME : admin99 atau EMAIL : admin@gmail.com
+	PASSWORD : 12345
